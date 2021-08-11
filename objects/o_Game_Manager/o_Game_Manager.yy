@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Sprite5",
-    "path": "sprites/Sprite5/Sprite5.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -30,7 +27,7 @@
     "path": "folders/Objects/Jogo.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_Background",
+  "name": "o_Game_Manager",
   "tags": [],
   "resourceType": "GMObject",
 }

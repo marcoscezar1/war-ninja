@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"o_territorio_folha_2","path":"objects/o_territorio_folha_2/o_territorio_folha_2.yy",},"order":1,},
     {"id":{"name":"s_regras_2","path":"sprites/s_regras_2/s_regras_2.yy",},"order":5,},
+    {"id":{"name":"o_Game_Manager","path":"objects/o_Game_Manager/o_Game_Manager.yy",},"order":1,},
     {"id":{"name":"s_territorio_cachoeira_2","path":"sprites/s_territorio_cachoeira_2/s_territorio_cachoeira_2.yy",},"order":1,},
     {"id":{"name":"o_background_menu","path":"objects/o_background_menu/o_background_menu.yy",},"order":1,},
     {"id":{"name":"o_territorio_chuva_2","path":"objects/o_territorio_chuva_2/o_territorio_chuva_2.yy",},"order":1,},
@@ -93,6 +94,7 @@
     {"id":{"name":"o_regras_2","path":"objects/o_regras_2/o_regras_2.yy",},"order":6,},
     {"id":{"name":"o_regras_1","path":"objects/o_regras_1/o_regras_1.yy",},"order":5,},
     {"id":{"name":"o_Background","path":"objects/o_Background/o_Background.yy",},"order":0,},
+    {"id":{"name":"Script4","path":"scripts/Script4/Script4.yy",},"order":3,},
     {"id":{"name":"resume_game","path":"scripts/resume_game/resume_game.yy",},"order":1,},
     {"id":{"name":"o_territorio_folha_5","path":"objects/o_territorio_folha_5/o_territorio_folha_5.yy",},"order":4,},
     {"id":{"name":"o_territorio_grama_3","path":"objects/o_territorio_grama_3/o_territorio_grama_3.yy",},"order":2,},
