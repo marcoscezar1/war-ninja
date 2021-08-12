@@ -1,1 +1,2 @@
-show_debug_message("aaaaaaa");
+vetor=[o_territorio_cachoeira_1, o_territorio_areia_1, o_territorio_areia_2, o_territorio_areia_3, o_territorio_areia_4, o_territorio_cachoeira_2, o_territorio_cachoeira_3,o_territorio_chuva_1, o_territorio_chuva_2, o_territorio_chuva_3, o_territorio_chuva_4, o_territorio_folha_1, o_territorio_folha_2, o_territorio_folha_3, o_territorio_folha_4, o_territorio_folha_5, o_territorio_grama_1, o_territorio_grama_2, o_territorio_grama_3, o_territorio_nevoa_1, o_territorio_nevoa_2, o_territorio_nevoa_3, o_territorio_nevoa_4, o_territorio_nevoa_5, o_territorio_nuvem_1, o_territorio_nuvem_2, o_territorio_nuvem_3, o_territorio_nuvem_4, o_territorio_pedra_1, o_territorio_pedra_2, o_territorio_pedra_3, o_territorio_pedra_4]
+Script4()

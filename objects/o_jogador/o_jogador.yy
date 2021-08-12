@@ -27,7 +27,7 @@
     "path": "folders/Objects/Jogo.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_Game_Manager",
+  "name": "o_jogador",
   "tags": [],
   "resourceType": "GMObject",
 }

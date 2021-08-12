@@ -1,0 +1,1 @@
+show_debug_message(o_jogador.cartas_territorio[0].nome)
