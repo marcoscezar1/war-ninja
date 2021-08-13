@@ -1,4 +1,3 @@
 nome="territorio_cachoeira_1"
 tipo="shuriken"
-image_speed = 0;
-territorios_vizinhos=["territorio_cacheira_2", "territorio_grama_1", "territorio_folha_3", "territorio_folha_5"]
+territorios_vizinhos=[territorio_cacheira_2, territorio_grama_1, territorio_folha_3, territorio_folha_5]
