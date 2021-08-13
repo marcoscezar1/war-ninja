@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"bc3ca9d0-fbd8-4cb0-9ab9-21bac0005018","path":"sprites/s_conquistar3/s_conquistar3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bc3ca9d0-fbd8-4cb0-9ab9-21bac0005018","path":"sprites/s_conquistar3/s_conquistar3.yy",},"LayerId":{"name":"a692cd38-f06e-4786-93fb-5c3266c9c04b","path":"sprites/s_conquistar3/s_conquistar3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"bc3ca9d0-fbd8-4cb0-9ab9-21bac0005018","path":"sprites/s_conquistar3/s_conquistar3.yy",},"LayerId":{"name":"d56f4f65-9d90-474e-86d7-2d5b2e39b143","path":"sprites/s_conquistar3/s_conquistar3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"bc3ca9d0-fbd8-4cb0-9ab9-21bac0005018","path":"sprites/s_conquistar3/s_conquistar3.yy",},"LayerId":{"name":"a692cd38-f06e-4786-93fb-5c3266c9c04b","path":"sprites/s_conquistar3/s_conquistar3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"s_conquistar3","path":"sprites/s_conquistar3/s_conquistar3.yy",},"resourceVersion":"1.0","name":"bc3ca9d0-fbd8-4cb0-9ab9-21bac0005018","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {

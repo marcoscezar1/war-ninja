@@ -29,6 +29,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"o_conquistarRoxoBege","path":"objects/o_conquistarRoxoBege/o_conquistarRoxoBege.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_163DC39F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_conquistarVerdeAmarelo","path":"objects/o_conquistarVerdeAmarelo/o_conquistarVerdeAmarelo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_42D0B3B0","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_conquistarVermMais2","path":"objects/o_conquistarVermMais2/o_conquistarVermMais2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_79B5108C","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"o_musicaJogo","path":"objects/o_musicaJogo/o_musicaJogo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":128.0,"resourceVersion":"1.0","name":"inst_42B87B10","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"o_Background","path":"objects/o_Background/o_Background.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_77067298","tags":[],"resourceType":"GMRInstance",},
@@ -119,6 +120,7 @@
     {"name":"inst_163DC39F","path":"rooms/room_jogo/room_jogo.yy",},
     {"name":"inst_42D0B3B0","path":"rooms/room_jogo/room_jogo.yy",},
     {"name":"inst_79B5108C","path":"rooms/room_jogo/room_jogo.yy",},
+    {"name":"inst_42B87B10","path":"rooms/room_jogo/room_jogo.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
